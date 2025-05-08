@@ -1,4 +1,4 @@
-# Automated-Guest_response 
+# Automated-Guest-Response 
 This is a Command-line application to create and manage templates for common hotel guest communications. 
 
 So while I was working at the front desk one time, I noticed our team was sending out over 100 emails a day. Most of them were the same things. Booking confirmations, Pre arrival emails, follow ups after guests checked out. It was nonstop, and honestly, it felt like such a waste of time and energy.
