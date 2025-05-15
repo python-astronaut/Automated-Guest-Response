@@ -16,6 +16,6 @@ Enjoy :)
 
 ![Image Alt](https://github.com/python-astronaut/Automated-Guest-Response/blob/0006afedfc236d0c04c36ea7b999e1d33356e5bb/Automated_Guest_Responce_2.png).
 
-![Image Alt](image_url).
+![Image Alt](https://github.com/python-astronaut/Automated-Guest-Response/blob/145aabb3c4270a0a0371cc87e0b2401008f6a7a6/Automated_Guest_Responce_3.png).
 
 ![Image Alt](image_url).
