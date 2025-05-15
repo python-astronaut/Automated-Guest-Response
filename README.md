@@ -5,4 +5,8 @@ So while I was working at the front desk one time, I noticed our team was sendin
 
 So one night, back at staff accommodation, I decided to write this program. I ended up putting together a command line program. It’s dead simple. It uses a set of JSON templates — just prewritten emails with placeholders for the details that change, like the guest’s name or check-in date. customizeable and there is fuctionality build in where I could automated the process and create a pipeline. 
 
-Also I was thinking about automating an api call into the program. So that you could actually have custom emails lines build in maybe 1-2 sentances as personalized emails can be annoying at times. That said this was submitted to my boss which I believe is still using it today. :)
+Also I was thinking about automating an api call into the program. So that you could actually have custom emails lines build in maybe 1-2 sentances as personalized emails can be annoying at times. That said this is free to use at your discretion just please site me when doing so however this is open software. 
+
+Enjoy :) 
+
+-Orion
